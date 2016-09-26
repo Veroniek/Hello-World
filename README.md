@@ -1,2 +1,4 @@
 # Hello-World
-test repository
+
+Hello, my name is Veroniek.
+I am new to github.
